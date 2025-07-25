@@ -1,0 +1,15 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+coverage/
+.nyc_output/
+
+# Docker volumes
+postgres_data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
